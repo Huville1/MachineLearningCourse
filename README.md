@@ -1,3 +1,7 @@
+This repository was forked from Dr. Michael Pyrcz's github: https://github.com/GeostatsGuy/MachineLearningCourse
+
+I attended Dr. Pyrcz's Subsurface Machine Learning Graduate Course in the Summer 2025 semester, and I created the Jupyter NoteBook titled "FeatureImportanceWrapperFunctions_Eric_Hu.ipynb" for my final course project. Within this notebook, I created a workflow that compared different feature importance wrapper functions with a linear regression estimator on a synthetic, open-source dataset from Dr. Pycrz. More details are presented within the notebook. I have also included projects contributed by my classmates to showcase the variety of work we completed this semester.
+
 <p>
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
 </p>
